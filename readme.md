@@ -17,5 +17,9 @@ It’s widely used for:
 # My Project
 This is **bold text** and this is *italic*.
 
-# H1
-## h2
+# H1 Heading
+## H2 Heading
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
