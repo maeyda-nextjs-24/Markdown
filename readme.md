@@ -16,3 +16,6 @@ It’s widely used for:
 ```markdown
 # My Project
 This is **bold text** and this is *italic*.
+
+# H1
+## h2
